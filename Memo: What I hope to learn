@@ -1,1 +1,6 @@
 I hope to learn more about coding, API's, and how to develop web apps.
+
+
+Our Final Project is going to allow the user to calculate the least cost path for use in an evacuation scenario. 
+We are going to include a video overview of the app, followed by step-by-step instructions.
+The app itself will include several places to input shapefiles, but will also include the option to pick points on the map, if applicable.
